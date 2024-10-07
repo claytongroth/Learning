@@ -13,6 +13,28 @@
             "state": {
               "type": "markdown",
               "state": {
+                "file": "ClimateScience/BigResearchDoc.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "53aaa084ee8df70b",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.5.12"
+              }
+            }
+          },
+          {
+            "id": "13aa37b54e922432",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
                 "file": "InformationAndComplexity/Information basics.md",
                 "mode": "source",
                 "source": false
@@ -85,7 +107,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "InformationAndComplexity/Information basics.md",
+                "file": "ClimateScience/BigResearchDoc.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +124,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "InformationAndComplexity/Information basics.md",
+                "file": "ClimateScience/BigResearchDoc.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +147,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "InformationAndComplexity/Information basics.md"
+                "file": "ClimateScience/BigResearchDoc.md"
               }
             }
           }
@@ -146,9 +168,16 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "f54381871edc688a",
+  "active": "96258e1584db34d2",
   "lastOpenFiles": [
     "InformationAndComplexity/Information basics.md",
+    "ClimateScience/ConsensusAi.csv",
+    "ClimateScience/Consensus AI Dump.md",
+    "ClimateScience/BigResearchDoc.md",
+    "ClimateScience/untitled folder",
+    "ClimateScience",
+    "DevStuff/RoadMap.md",
+    "DevStuff",
     "InformationAndComplexity",
     "Information & Complexity/Information Basics.md",
     "README.md",
