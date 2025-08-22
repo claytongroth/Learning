@@ -375,14 +375,6 @@ By employing these methods, the IPCC aims to maintain objectivity and a strong s
 # Misc Resources:
 
 
-## Blogs/Substacks
-- [Roger Pielke](https://rogerpielkejr.substack.com/ ). 
-	- Very informed guy in the field 30 years. 
-	- No longer in academia
-	- Not afraid to call bullshit
-## Podcasts
-- https://open.spotify.com/episode/3ywEuUxnFn2wGYpJm9DdnY?si=xrptwM0vS2m32mn-b5Oy8Q&t=5679
-
 
 
 
